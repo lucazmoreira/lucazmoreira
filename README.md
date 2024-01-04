@@ -1,16 +1,20 @@
-### Hi there 👋
+🚀 Bem-vindo ao meu mundo de códigos! Sou um entusiasta incansável por aprendizado e apaixonado por explorar novas tecnologias. 🌐
 
-<!--
-**lucazmoreira/lucazmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim:
 
-Here are some ideas to get you started:
+👨‍💻 Atualmente me aventurando no universo de Engenharia Front-End.
+🎓 Prestes a me formar como Engenheiro Front-End, buscando sempre aprimorar minhas habilidades.
+🚧 Construindo a web com JavaScript, dando vida às páginas com HTML, e estilizando com amor usando SCSS.
+Meus Interesses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌈 Estudando Web Design para criar experiências visuais envolventes.
+🎨 Explorando o fascinante mundo de UX/UI para aprimorar a usabilidade e a estética.
+Meu Playground:
+
+💻 Adoro praticar programação como hobby, sempre buscando desafios para aprimorar minhas habilidades.
+📚 Buscando constantemente conhecimento para me manter atualizado nas últimas tendências do desenvolvimento web.
+Mantenha-se Conectado:
+
+📫 Vamos trocar ideias e conhecimentos! Sinta-se à vontade para explorar meus repositórios e contribuir para o aprendizado mútuo.
+
+Códigos são poemas em linguagem binária. Vamos escrever poesia juntos! ✨
