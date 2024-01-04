@@ -5,7 +5,7 @@
 
 👨‍💻 Sobre Mim:
 
-Atualmente me aventurando no universo de Engenharia Front-End. Prestes a me formar como Engenheiro Front-End, buscando sempre aprimorar minhas habilidades. Construindo a web com JavaScript, dando vida às páginas com HTML, e estilizando com amor usando SCSS.
+Atualmente me aventurando no universo de Engenharia Front-End. Prestes a me formar como Engenheiro Front-End, buscando sempre aprimorar minhas habilidades. Construindo a web com HTML, dando vida às páginas com JavaScript, e estilizando com amor usando SCSS.
 
 
 🎨 Meus Interesses:
