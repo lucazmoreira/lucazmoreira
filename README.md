@@ -20,6 +20,7 @@ Meus Interesses:
 Meu Playground:
 
 💻 Adoro praticar programação como hobby, sempre buscando desafios para aprimorar minhas habilidades.
+
 📚 Buscando constantemente conhecimento para me manter atualizado nas últimas tendências do desenvolvimento web.
 
 
