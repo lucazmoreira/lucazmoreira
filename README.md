@@ -26,7 +26,7 @@ Vamos trocar ideias e conhecimentos! Sinta-se à vontade para explorar meus repo
 Códigos são poemas em linguagem binária. Vamos escrever poesia juntos! ✨
 
 <div>
-<a href="https://instagram.com/lucazmoreira_" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:lucazmoreira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lucasr-moreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://lucasmoreira-portfolio.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> <a href = "mailto:lucazmoreira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/lucasr-moreira" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucazmoreira&show_icons=true&theme=transparent) 
